@@ -25,9 +25,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Nikhil Rajput",
+  title: "Thomas Khaemba",
   description:
-    "Nikhil Rajput is a proficient Software Engineer and Full Stack Developer from India, skilled in front-end and back-end development using modern tech stacks.",
+    "Thomas Khaemba is a skilled and dedicated Full Stack Developer with experience in building, maintaining, and scaling software solutions.",
   robots: {
     index: true,
     follow: true,

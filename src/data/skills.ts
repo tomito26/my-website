@@ -81,21 +81,7 @@ const skills: ISkillListItem[] = [
       // },
     ],
   },
-  {
-    title: "Mobile App Development",
-    items: [
-      {
-        title: "Flutter",
-        level: SkillLevel.Expert,
-        icon: "/skills/flutter.svg",
-      },
-      {
-        title: "GetX",
-        level: SkillLevel.Expert,
-        icon: "/skills/getx.png",
-      },
-    ],
-  },
+
   {
     title: "Database Management",
     items: [
@@ -123,11 +109,6 @@ const skills: ISkillListItem[] = [
         title: "Docker",
         level: SkillLevel.Beginner,
         icon: "/skills/docker.png",
-      },
-      {
-        title: "AWS",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/aws.svg",
       },
       {
         title: "Git",
